@@ -46,6 +46,11 @@ public class HomeController {
 		logger.info("Welcome home! The client locale is {}.", locale);
 		logger.info("Welcome home! The client locale is {}.", locale);
 		logger.info("Welcome home! The client locale is {}.", locale);
+		logger.info("Welcome home! The client locale is {}.", locale);
+		
+		
+		
+		logger.info("Haciendo un prueba de cambio de branch");
 		return "login";
 	}
 	
