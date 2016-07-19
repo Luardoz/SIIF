@@ -50,7 +50,9 @@ public class HomeController {
 		
 		
 		
-		logger.info("Haciendo un prueba de cambio de branch");
+		logger.info("Haciendo un prueba de cambio de branch");		
+		logger.info("Continuando la prueba en el branch_new");
+		
 		return "login";
 	}
 	
